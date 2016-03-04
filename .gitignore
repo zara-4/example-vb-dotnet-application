@@ -1,0 +1,6 @@
+.DS_Store
+*~
+/.vs
+/obj
+/VBExampleApplication/obj
+/VBExampleApplication/bin
